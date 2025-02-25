@@ -19,7 +19,7 @@ pkg install python3
 ### Usage Tool
 ```
 git clone https://github.com/Maliknasir787/telegram-info.git
-cd telegram-info
+cd Nasir-Hacker
 python UserInfo@Maliknasir787.py
 ```
 <br>
