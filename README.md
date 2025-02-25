@@ -3,7 +3,7 @@ Useful tool to Telegram User Information Tool 🔥
 
 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁
 
-<img src="https://ibb.co/M5B5RyMd" alt="Image Description">
+<img src="https://ibb.co/M5B5RyMd">
 
 
 ### Instalation on Linux (deb)
