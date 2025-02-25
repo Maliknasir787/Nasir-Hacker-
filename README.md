@@ -3,7 +3,6 @@ Useful tool to Telegram User Information Tool 🔥
 
 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁
 
-<img src="https://raw.githubusercontent.com/Nasir-Hacker/telegram-info/refs/heads/main/IMG_20250225_144029.jpg"/>
 
 ### Instalation on Linux (deb)
 ```
@@ -19,11 +18,11 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/Nasir-Hacker/telegram-info.git
+git clone https://github.com/Maliknasir787/telegram-info.git
 cd telegram-info
-python UserInfo@Nasir-Hacker.py
+python UserInfo@Maliknasir787.py
 ```
 <br>
 <h3><b><i>🤠 Devoloper Channels :</i></b></h3>
 <li> <i><a href="https://t.me/Trustedhacker78">Devoloper</a></i></li>
-<li>  <i><a href="https://t.me/Trustedhacker079">Red-X Hacking</a></i></li>
+<li>  <i><a href="https://t.me/Trustedhacker079">Anonymous Hacking</a></i></li>
